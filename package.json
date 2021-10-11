@@ -1,10 +1,9 @@
 {
   "name": "@mailprotector/haraka-plugin-rcpt-to-accept-all",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Haraka plugin to accept all recipients",
   "main": "index.js",
   "scripts": {},
-  "repository": "git://github.com/mailprotector/haraka-plugin-rcpt-to-accept-all.git",
   "keywords": [
     "haraka"
   ],
