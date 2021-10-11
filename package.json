@@ -1,0 +1,20 @@
+{
+  "name": "haraka-plugin-rcpt-to-accept-all",
+  "version": "1.0.2",
+  "description": "Haraka plugin to accept all recipients",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mailprotector/haraka-plugin-rcpt-to-accept-all.git"
+  },
+  "keywords": [
+    "haraka"
+  ],
+  "author": "Dallas Lones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mailprotector/haraka-plugin-rcpt-to-accept-all/issues"
+  },
+  "homepage": "https://github.com/mailprotector/haraka-plugin-rcpt-to-accept-all#readme"
+}
