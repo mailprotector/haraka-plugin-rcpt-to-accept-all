@@ -6,6 +6,12 @@ A simple Haraka plugin for accepting any rcpt_to address.
 ## Warning!
 This plugin accepts ALL rcpt_to addresses
 
+## Intallation
+
+```bash
+npm install @mailprotector/haraka-plugin-rcpt-to-accept-all --save
+```
+
 ##
 
 [About Mailprotector](https://mailprotector.com/about-mailprotector)
