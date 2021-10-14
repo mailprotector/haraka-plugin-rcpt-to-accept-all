@@ -6,8 +6,15 @@ This plugin accepts ALL rcpt_to addresses
 
 ## Intallation
 
+Install with npm
+
 ```bash
 npm install @mailprotector/haraka-plugin-rcpt-to-accept-all --save
+```
+
+Add to config file in config folder
+```text
+@mailprotector/haraka-plugin-rcpt-to-accept-all
 ```
 
 ##
