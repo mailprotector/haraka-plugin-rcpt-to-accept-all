@@ -1,5 +1,3 @@
-![alt text](https://en.gravatar.com/userimage/466950/319008f37c749fae53ef6a7b071afa83.png)
-
 # haraka-plugin-rcpt-to-accept-all
 A simple Haraka plugin for accepting any rcpt_to address.
 
@@ -13,5 +11,5 @@ npm install @mailprotector/haraka-plugin-rcpt-to-accept-all --save
 ```
 
 ##
-
+![alt text](https://i1.wp.com/mailprotector.com/wp-content/uploads/2020/03/cropped-logo-2x.png)
 [About Mailprotector](https://mailprotector.com/about-mailprotector)

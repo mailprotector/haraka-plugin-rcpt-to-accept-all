@@ -3,7 +3,12 @@
   "version": "1.0.1",
   "description": "Haraka plugin to accept all recipients",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "lint": "npx eslint *.js test/*.js",
+    "lintfix": "npx eslint --fix *.js test/*.js",
+    "versions": "npx dependency-version-checker check",
+    "test": "jest ./test --detectOpenHandles"
+  },
   "keywords": [
     "haraka"
   ],
@@ -12,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/mailprotector/haraka-plugin-rcpt-to-accept-all/issues"
   },
-  "homepage": "https://github.com/mailprotector/haraka-plugin-rcpt-to-accept-all#readme"
+  "homepage": "https://github.com/mailprotector/haraka-plugin-rcpt-to-accept-all#readme",
+  "devDependencies": {
+    "eslint": "*",
+    "eslint-plugin-haraka": "*",
+    "jest": "*"
+  }
 }
