@@ -1,6 +1,6 @@
 {
   "name": "@mailprotector/haraka-plugin-rcpt-to-accept-all",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Haraka plugin to accept all recipients",
   "main": "index.js",
   "scripts": {
